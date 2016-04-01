@@ -1,6 +1,6 @@
 {-# LANGUAGE DataKinds #-}
 {-# LANGUAGE TypeOperators #-}
-module Echo where
+module Main where
 
 import Servant
 import Network.Wai (Application)
